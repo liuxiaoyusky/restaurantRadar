@@ -1,4 +1,5 @@
-1. Used the MVC architecture (Vue.js as the front-end and Express.js as the back-end)
-2. Used the Yelp Fusion API and integrated with the GoogleMap API for information rendering and display. 
-3. Utilized the Google Firebase for storing additional user information and restaurant reviews.# restaurantRadar
+•	Developed a full stack web application of a restaurant search engine in JavaScript and deploy it on apache server on AWS.
+•	Used the MVC architecture for better management, implemented front end by Vue.js for asynchronized data rendering and Express.js framework as back end for routing data, Axios library to exchange requests and responses and Json file to exchange data. Used npm to as package manager for its resourceful supports and convenient dependency management.
+•	Used user’s address as default location, render restaurant’s information from the Yelp Fusion API and display it with a dozen customized filters and sorting algorithms, integrated with the routes and locations displayed on a map by GoogleMap API.
+•	Utilized the Google Firebase for safely storing additional user information and manage restaurant reviews.
 # restaurantRadar
