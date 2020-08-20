@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "The server codebase of the final project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Zhang, Xiaoyu Liu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.10.0",
+    "nodemon": "^2.0.3",
+    "pug": "^2.0.4",
+    "save": "^2.4.0",
+    "yelp-fusion": "^3.0.0"
+  }
+}
